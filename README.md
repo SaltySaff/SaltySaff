@@ -4,4 +4,4 @@ My GitHub features a number of different projects, made using a variety of diffe
 
 I'm proficient in HTML, CSS, JavaScript, and Ruby, and am currently teaching myself Ruby on Rails.
 
-If you want to contact me, feel free to do so via my [LinkedIn account.](danielash.co.uk)
+If you want to contact me, feel free to do so via my [LinkedIn account.](http://www.danielash.co.uk)
